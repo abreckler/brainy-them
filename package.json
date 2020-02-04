@@ -1,6 +1,6 @@
 {
   "name": "brainy-theme",
-  "version": "0.6.2",
+  "version": "0.6.3",
   "private": false,
   "dependencies": {
     "@antv/g2": "^3.4.10",
